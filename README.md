@@ -3,7 +3,8 @@ Solutions to leetcode problems
 
 ## Medium
 | #    | Problem Title       | Lang          |
-| [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self] | Java |
+|---|-------------|------------------|
+| [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](https://github.com/lelbarton/leetcode/blob/master/238_product_of_array_except_self.java) | Java |
 
 ## Easy
 | #    | Problem Title       | Lang          |
