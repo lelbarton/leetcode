@@ -11,7 +11,7 @@ Solutions to leetcode problems
 | [409](https://leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](https://github.com/lelbarton/leetcode/blob/master/409_longest_palindrome.java) | Java |
 
 ## Medium
-| #    | Problem Title       | Lang          |
+| #    | Solution       | Lang          |
 |---|-------------|------------------|
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](https://github.com/lelbarton/leetcode/blob/master/238_product_of_array_except_self.java) | Java |
 
