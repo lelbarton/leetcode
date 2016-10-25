@@ -6,6 +6,7 @@ Solutions to leetcode problems
 |---|-------------|------------------|
 | [231](https://leetcode.com/problems/power-of-two/)| [Power of Two](https://github.com/lelbarton/leetcode/blob/master/231_power_of_two.java) | Java |
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node From a Linked List](https://github.com/lelbarton/leetcode/blob/master/237_delete_node_in_linked_list.java) | Java |
+| [339](https://leetcode.com/problems/nested-list-weight-sum/) | [Nested List Weight Sum](https://github.com/lelbarton/leetcode/blob/master/NestedListWeightSum339.java) | Java |
 | [344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/lelbarton/leetcode/blob/master/344_reverse_string.java) | Java |
 | [404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](https://github.com/lelbarton/leetcode/blob/master/404_sum_of_left_leaves.java) | Java |
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](https://github.com/lelbarton/leetcode/blob/master/405_convert_a_number_to_hexadecimal.java) |Java |
